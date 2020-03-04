@@ -1,2 +1,2 @@
 # puzzleGame
-[a link](https://github.com/user/repo/blob/branch/other_file.md)
+[a link] https://ranaanil5.github.io/puzzleGame/
